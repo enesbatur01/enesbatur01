@@ -17,6 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enesbatur01&" alt="enesbatur01" /></p>
 
-https://github.com/enesbatur01/enesbatur01/blob/output/github-contribution-grid-snake.gif
 
 ![snake gif](https://github.com/enesbatur01/enesbatur01/blob/output/github-contribution-grid-snake.gif)
