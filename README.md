@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)<h1 align="center">Hey my dear team mate I'am Enes Burak BATUR</h1>
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)<h1 align="center">Hey my dear team mate. I'am Enes Burak BATUR</h1>
 <h3 align="center">I can test anything with excitement and passion!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enesbatur01&label=Profile%20views&color=0e75b6&style=flat" alt="enesbatur01" /> </p>
